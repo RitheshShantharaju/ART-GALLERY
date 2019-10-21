@@ -1,0 +1,40 @@
+{
+    "art": [
+      {
+        "id": 1,
+        "name": "MONA LISA PAINT",
+        "price": 100,
+        "imgName": "unsplash8.jpg"
+      },
+      {
+        "id": 2,
+        "name": "ABSTRACT PAINT",
+        "price": 80,
+        "imgName": "unsplash4.jpg"
+      },
+      {
+        "id": 3,
+        "name": "ABSTRACT ART",
+        "price": 70,
+        "imgName": "unsplash5.jpg"
+      },
+      {
+        "id": 4,
+        "name": "HAND PYRAMID PAINT",
+        "price": 90,
+        "imgName": "unsplash7.jpg"
+      },
+      {
+        "id": 5,
+        "name": "ART NEON",
+        "price": 50,
+        "imgName": "unsplash6.jpg"
+      },
+      {
+        "id": 6,
+        "name": "TUNNEL PAINT",
+        "price": 50,
+        "imgName": "unsplash9.jpg"
+      }
+    ]
+  }
